@@ -2,6 +2,7 @@
 #include <string>
 #include <stdlib.h>
 
+void sSlp(int);
 std::string tool;
 int temp;
 int choise;
