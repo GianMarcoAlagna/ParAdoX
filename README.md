@@ -1,3 +1,3 @@
 # ParAdoX
-Welcome to ParAdoX the simple C++ based,
+Welcome to ParAdoX a simple C++ based,
   Console-Game.
