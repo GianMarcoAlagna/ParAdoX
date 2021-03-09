@@ -33,6 +33,7 @@ main()
   std::cout << "##        ##     ## ##     ## ##     ## ########   #######  ##     ##\n";
 
   do {
+  std::cout << "KEEP IN MIND THIS IS A TEST BUILD THIS WILL EVENTUALLY BE A FULL 2D GAME WITH GRAPHICS\n THE GAME IS SCUFFED AND SHORT FOR TESTING REASONS. :)\n";
   std::cout << "=================\n";
   std::cout << "|Choose your class|\n";
   std::cout << "1) |Mage   |\n";
