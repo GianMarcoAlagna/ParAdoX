@@ -6,7 +6,7 @@
 #include <vector>
 #include "px.h"
 
-main()
+int main()
 {
   std::cout <<  "##      ## ######## ##        ######   #######  ##     ## ########\n"; 
   std::cout <<  "##  ##  ## ##       ##       ##    ## ##     ## ###   ### ##\n";       
